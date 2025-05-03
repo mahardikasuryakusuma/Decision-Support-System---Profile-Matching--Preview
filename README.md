@@ -23,7 +23,7 @@ Aspects are the major categories used for evaluation. Examples:
 Each aspect carries a weight and consists of multiple **factors**.
 <img src="./images/2.png" alt="Contoh Gambar Resize" width="full"/>
 
-### ⚖️ Aspect Weights
+### ⚖️ Weights
 
 Once the GAP (difference between the candidate's actual score and the ideal score) is calculated, it is converted into a preference weight based on the following scale.
 
