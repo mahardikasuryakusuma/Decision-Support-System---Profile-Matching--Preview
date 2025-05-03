@@ -77,7 +77,7 @@ Average weighted scores are calculated separately for:
 
 ### 4️⃣ Ranking
 
-The final score for each candidate is computed by summing up scores from all aspects. Candidates are then **ranked from highest to lowest** based on their total score.
+The final score for each candidate is computed by summing up scores from all aspects.
 
 ---
 
