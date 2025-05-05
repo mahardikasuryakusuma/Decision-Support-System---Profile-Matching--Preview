@@ -11,7 +11,7 @@ These are individuals or entities subject to evaluation. Examples include:
 
 Each candidate is scored based on several criteria and compared against an **ideal profile**.
 
-<img src="./images/1.png" alt="Contoh Gambar Resize" width="full"/>
+<img src="./images/1.png" width="full"/>
 
 ## 🧩 Aspects
 
@@ -21,13 +21,13 @@ Aspects are the major categories used for evaluation. Examples:
 - Technical Knowledge
 
 Each aspect carries a weight and consists of multiple **factors**.
-<img src="./images/2.png" alt="Contoh Gambar Resize" width="full"/>
+<img src="./images/2.png" width="full"/>
 
 ### ⚖️ Weights
 
 Once the GAP (difference between the candidate's actual score and the ideal score) is calculated, it is converted into a preference weight based on the following scale.
 
-<img src="./images/3.png" alt="Contoh Gambar Resize" width="full"/>
+<img src="./images/3.png" width="full"/>
 
 ### ⚙️ Factors
 
@@ -42,14 +42,14 @@ Factors are divided into two types:
 
 Each factor also has a specific weight.
 
-<img src="./images/4.png" alt="Contoh Gambar Resize" width="full"/>
+<img src="./images/4.png" width="full"/>
 
 
 ## 📝 Scoring
 
 Candidates are rated on a scale (e.g., 1–5) for each factor based on performance or qualification levels.
 
-<img src="./images/5.png" alt="Contoh Gambar Resize" width="full"/>
+<img src="./images/5.png" width="full"/>
 
 ## 🔄 Profile Matching Process
 
@@ -59,12 +59,12 @@ The **Profile Matching** process involves matching a candidate’s profile to an
 
 Calculating the **difference (gap)** between the candidate’s actual score and the ideal score for each factor:
 
-<img src="./images/6.png" alt="Contoh Gambar Resize" width="full"/>
+<img src="./images/6.png" width="full"/>
 
 ### 2️⃣ GAP Weighting
 
 Each GAP value is converted to a weight using a predefined conversion table.
-<img src="./images/7.png" alt="Contoh Gambar Resize" width="full"/>
+<img src="./images/7.png" width="full"/>
 
 ### 3️⃣ Factor Score Calculation
 
@@ -73,7 +73,7 @@ Average weighted scores are calculated separately for:
 - Secondary Factor (SF)
 
 
-<img src="./images/8.png" alt="Contoh Gambar Resize" width="full"/>
+<img src="./images/8.png" width="full"/>
 
 ### 4️⃣ Ranking
 
@@ -81,7 +81,7 @@ The final score for each candidate is computed by summing up scores from all asp
 
 ---
 
-<img src="./images/9.png" alt="Contoh Gambar Resize" width="full"/>
+<img src="./images/9.png" width="full"/>
 
 ## 🛠️ Technologies Used
 
